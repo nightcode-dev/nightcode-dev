@@ -3,11 +3,11 @@ Hi i amirhosain akhondzadeh and i am 14 years old i am from iran and i like it
 i born in tehran 
 my information
 
-*nationality: Iranian
+* nationality : Iranian
 
-*age:14 years old
+* age : 14 years old
 
-*place of birth:tehran
+* place of birth : tehran
 
 ## How to talk to me?
 i am active in [rubika](https://rubika.ir/Night_code) and i am in [telegram](https://t.me/Night_code_programmer) too but not active
