@@ -1,20 +1,17 @@
-### Hi there 👋
+# welcome to night code github page
+Hi i amirhosain akhondzadeh and i am 14 years old i am from iran and i like it 
+i born in tehran 
+my information
 
+*nationality: Iranian
 
-**nightcode-dev/nightcode-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*age:14 years old
 
-Here are some ideas to get you started:
+*place of birth:tehran
 
- -🔭 I’m currently working on JavaScript
- -🌱 I’m currently learning vuejs and expresjs
- -👯 I’m looking to collaborate on a big project in the future
- -🤔 I’m looking for help with my abilities
- -💬 Ask me about my programming language
- -📫 How to reach me: [rubika](https://rubika.ir/Night_code),[telegram](https://t.me/Night_code_programmer)
+## How to talk to me?
+i am active in [rubika](https://rubika.ir/Night_code) and i am in [telegram](https://t.me/Night_code_programmer) too but not active
 
-*expressjs => 10%
-*Html => 80%
-*Css => 70%
-*js => 60%
-*vuejs => 40%
-*Bootstrap => 60%
+### my languages
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightcode-dev)](https://github.com/anuraghazra/github-readme-stats)
