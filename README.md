@@ -11,5 +11,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my abilities
 - 💬 Ask me about my programming language
 - 📫 How to reach me: [rubika](https://rubika.ir/Night_code),[telegram](https://t.me/Night_code_programmer)
-)
 
+*expressjs => 10%
+*Html => 80%
+*Css => 70%
+*js => 60%
+*vuejs => 40%
+*Bootstrap => 60%
