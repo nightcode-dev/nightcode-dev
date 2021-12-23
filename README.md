@@ -1,7 +1,7 @@
 # welcome to night code github page
 Hi i amirhosain akhondzadeh and i am 14 years old i am from iran and i like it 
 i born in tehran 
-my information
+##my information
 
 * nationality : Iranian
 
@@ -9,10 +9,10 @@ my information
 
 * place of birth : tehran
 
-## How to talk to me?
+### How to talk to me?
 i am active in [rubika](https://rubika.ir/Night_code) and i am in [telegram](https://t.me/Night_code_programmer) too but not active
 
-### My statistics
+#### My statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightcode-dev&show_icons=true&theme=vue-dark)
 
