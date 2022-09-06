@@ -15,7 +15,7 @@ i am active in [rubika](https://rubika.ir/Night_code) and i am in [telegram](htt
 ## My statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightcode-dev&show_icons=true&theme=vue-dark)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=nightcode-dev&theme=dark&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightcode-dev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
